@@ -1,2 +1,1 @@
-# Sista-ordet
-Java project in the course TDDD78
+#### Sista ordet ####

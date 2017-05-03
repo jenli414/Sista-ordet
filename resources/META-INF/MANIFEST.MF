@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: se.liu.ida.jenli414.tddd78.sista_ordet.GameInitializer
+
